@@ -11,8 +11,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/app/themes/sage-woo",
-  "devUrl": "http://woo.test",
+  "publicPath": "/wp-content/themes/nlc",
+  "devUrl": "http://localhost/nlc",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
